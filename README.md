@@ -17,7 +17,7 @@
 
 
 # Todo
--Add glow esp
+- Add glow esp
 
 # Support/credits
 - Made by aapoxi,leevix
