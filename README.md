@@ -13,7 +13,8 @@
 
 
 ## Screenshots
-<img src="https://imgur.com/a/ExsQKLM" alt="ingame" />
+![image](https://github.com/Aapoxix/Solaris-Csgo/assets/140962895/6ed1ee00-994f-4568-b66b-094c8a83e3b1)
+
 
 # Todo
 -Add glow esp
