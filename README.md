@@ -1,5 +1,5 @@
 # 🪐 Solaris-Hacks
--🪐Solaris free csgo ESP hack🪐
+🪐Solaris free csgo ESP hack🪐
 - Made by aapoxi,leevix
 
   ![Made with love in Finland](https://madewithlove.now.sh/fi?heart=true&colorB=%23387fdc&template=plastic)
