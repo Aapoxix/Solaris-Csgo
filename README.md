@@ -1,15 +1,13 @@
 # 🪐 Solaris-Hacks
 -🪐Solaris free csgo ESP hack🪐
 - Made by aapoxi,leevix
-
+  ![Made with love in Finland](https://madewithlove.now.sh/fi?heart=true&colorB=%23387fdc&template=plastic)
 # 🪐Setup
 - Download latest release
 - Right click the folder and extract all
 - Open <strong>SolarisESP.exe</strong>
 - Enjoy !
-<center>
-  ![Made with love in Finland](https://madewithlove.now.sh/fi?heart=true&colorB=%23387fdc&template=plastic)
-</center>
+
 
 
 ## Screenshots
